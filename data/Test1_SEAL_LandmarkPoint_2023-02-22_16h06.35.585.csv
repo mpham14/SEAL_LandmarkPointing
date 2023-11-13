@@ -1,0 +1,5 @@
+﻿image,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,text.started,text.stopped,text_2.started,key_resp.started,key_resp.keys,key_resp.rt,image_2.started,text_4.started,button.started,button.numClicks,button.timesOn,button.timesOff,participant,session,date,expName,psychopyVersion,frameRate,
+,,,,,27.87414960001479,29.875599999999395,29.875599999999395,29.875599999999395,space,6.777078200015239,,,,,,,Test1,001,2023-02-22_16h06.35.585,SEAL_LandmarkPoint,2022.2.5,59.961852268800804,
+PointingImages/Landmark12_statue.jpeg,0,0,0,0,,,,,,,37.19024419999914,37.19024419999914,37.19024419999914,1,[13.242718300025444],[13.242731000005733],Test1,001,2023-02-22_16h06.35.585,SEAL_LandmarkPoint,2022.2.5,59.961852268800804,
+PointingImages/Landmark11_painting.jpeg,0,1,1,1,,,,,,,50.98165600001812,50.98165600001812,50.98165600001812,2,"[13.242718300025444, 2.611688500008313]","[13.242731000005733, 2.6116968000133056]",Test1,001,2023-02-22_16h06.35.585,SEAL_LandmarkPoint,2022.2.5,59.961852268800804,
+,,,,,,,,,,,53.875543700007256,53.875543700007256,53.875543700007256,,,,,,,,,,

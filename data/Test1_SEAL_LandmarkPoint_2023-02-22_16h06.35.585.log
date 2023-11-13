@@ -1,0 +1,68 @@
+1.8418 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+23.4640 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [2880, 1920]. Using actual size
+25.4269 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001F18E1D8190>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001F191B05640>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([2880, 1920]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+25.4272 	EXP 	window1: mouseVisible = True
+25.4275 	EXP 	window1: mouseVisible = False
+25.4275 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+25.4276 	EXP 	window1: recordFrameIntervals = False
+25.5923 	EXP 	window1: recordFrameIntervals = True
+25.7759 	EXP 	Screen (0) actual frame rate measured at 59.96Hz
+25.7760 	EXP 	window1: recordFrameIntervals = False
+27.7400 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Welcome to the SEAL Pointing Task', units='height', win=Window(...), wrapWidth=1)
+27.7585 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+27.7754 	EXP 	Created image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+27.7811 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0.0, pos=array([0. , 0.4]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+27.8588 	EXP 	window1: mouseVisible = True
+27.8637 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+27.8741 	EXP 	text: autoDraw = True
+29.8756 	EXP 	text: autoDraw = False
+29.8756 	EXP 	text: autoDraw = False
+29.8756 	EXP 	text_2: autoDraw = True
+31.8108 	DATA 	Mouse: Left button down, pos=(1850,686)
+31.8110 	DATA 	Mouse:  Left button up, pos=(1850,686)
+33.5435 	DATA 	Mouse: Left button down, pos=(1616,612)
+33.5442 	DATA 	Mouse:  Left button up, pos=(1616,612)
+36.6968 	EXP 	Imported PointingStims.xlsx as conditions, 12 conditions, 1 params
+36.6989 	EXP 	Created sequence: sequential, trialTypes=12, nReps=1, seed=None
+36.6991 	EXP 	New trial (rep=0, index=0): {'image': 'PointingImages/Landmark12_statue.jpeg'}
+37.0793 	DATA 	Keypress: space
+37.1902 	EXP 	text_2: autoDraw = False
+37.1902 	EXP 	image_2: image = 'PointingImages/Landmark12_statue.jpeg'
+37.1902 	EXP 	image_2: autoDraw = True
+37.1902 	EXP 	text_4: autoDraw = True
+41.6683 	DATA 	Mouse: Left button down, pos=(1443,281)
+41.6690 	DATA 	Mouse:  Left button up, pos=(1443,281)
+43.1275 	DATA 	Mouse: Left button down, pos=(1446,269)
+43.1284 	DATA 	Mouse:  Left button up, pos=(1446,269)
+44.0536 	DATA 	Mouse: Left button down, pos=(1407,321)
+44.0543 	DATA 	Mouse:  Left button up, pos=(1407,321)
+44.2723 	DATA 	Mouse: Left button down, pos=(1417,269)
+44.2729 	DATA 	Mouse:  Left button up, pos=(1417,269)
+46.8780 	DATA 	Keypress: lctrl
+46.8781 	DATA 	Keypress: lwindows
+48.5199 	DATA 	Mouse: Left button down, pos=(1508,368)
+48.5200 	DATA 	Mouse:  Left button up, pos=(1508,368)
+48.8139 	DATA 	Mouse: Left button down, pos=(1495,347)
+48.8142 	DATA 	Mouse:  Left button up, pos=(1495,347)
+50.2171 	DATA 	Mouse: Left button down, pos=(1508,292)
+50.2187 	DATA 	Mouse:  Left button up, pos=(1508,292)
+50.3178 	DATA 	Mouse: Left button down, pos=(1508,292)
+50.3232 	EXP 	New trial (rep=0, index=1): {'image': 'PointingImages/Landmark11_painting.jpeg'}
+50.8504 	DATA 	Mouse:  Left button up, pos=(1520,303)
+50.9817 	EXP 	image_2: autoDraw = False
+50.9817 	EXP 	text_4: autoDraw = False
+50.9817 	EXP 	image_2: image = 'PointingImages/Landmark11_painting.jpeg'
+50.9817 	EXP 	image_2: autoDraw = True
+50.9817 	EXP 	text_4: autoDraw = True
+53.3573 	DATA 	Mouse: Left button down, pos=(1504,307)
+53.3577 	DATA 	Mouse:  Left button up, pos=(1504,307)
+53.4585 	DATA 	Mouse: Left button down, pos=(1504,307)
+53.4612 	EXP 	New trial (rep=0, index=2): {'image': 'PointingImages/Landmark7_painting.jpeg'}
+53.8510 	DATA 	Mouse:  Left button up, pos=(1503,318)
+53.8755 	EXP 	image_2: autoDraw = False
+53.8755 	EXP 	text_4: autoDraw = False
+53.8755 	EXP 	image_2: image = 'PointingImages/Landmark7_painting.jpeg'
+53.8755 	EXP 	image_2: autoDraw = True
+53.8755 	EXP 	text_4: autoDraw = True
+58.8118 	DATA 	Keypress: escape
+59.2322 	EXP 	window1: mouseVisible = True
